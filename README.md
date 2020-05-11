@@ -21,16 +21,6 @@ If output looks like `Python 3` - Congrats, Python 3 is installed properly.
 - **None of the developers/contributors are responsible for the misuse of TBomb.**
 <br>
 
-## Features:
-
-- Lots of integrated SMS/call APIs
-- Unlimited (Limited against abusing) and super-fast bombing
-- International bombing available
-- Call bombing
-- Frequent updates
-- Automatic updating mechanism
-- Easy to use and embed in code
-
 ## Usage:
 
 Run these commands to run TBomb
@@ -89,7 +79,7 @@ python2 B-attack.py
 Feel Free To Open An Issue...
 
 ```
-                 Mail: ggspeedx29@gmail.com<br>
+                 Mail: mks123456.it@gmail.com<br>
        YouTube Channel: https://www.youtube.com/channel/UCDMFC1BNT_IyWM8sCumoBTA?view_as=subscriber
 ```
 
